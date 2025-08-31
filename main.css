@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>A Joe's Website</title>
+</head>
+<style>
+body {
+  background-color: #E5E4E2;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+
+<body>
+
+<title>A Joe's Website</title>
+<h1>A change</h1>
+<p>This is subject to change, of course.</p>
+<h1>What happens if I do this twice?</h1>
+<h2>What happens if I do this twice?</h2>
+<p>Interesting...</p>
+</body>
+</html>
