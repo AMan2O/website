@@ -2,9 +2,9 @@
 
         @font-face {
           font-family: 'windows';
-          src: url('/fonts/windows-bold[1].ttf') format('truetype');
+          src: url('fonts/windows-bold.ttf') format('truetype');
           font-weight: 400;
-          font-style: normal;
+          font-style: bold;
         }
         body {
                 background-color: #E5E4E2;
