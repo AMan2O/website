@@ -1,7 +1,7 @@
 <style>
 
         @font-face {
-          font-family: 'windows';
+          font-family: windows;
           src: url('fonts/windows-bold.ttf') format('truetype');
           font-weight: 400;
           font-style: bold;
