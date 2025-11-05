@@ -1,0 +1,55 @@
+
+        @font-face {
+          font-family: windows;
+          src: url("fonts/windows-bold.ttf") format('truetype');
+          font-weight: 400;
+          font-style: bold;
+        }
+        body {
+                background-color: #E5E4E2;
+                font-family: windows, Arial, sans-serif;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+                line-height: 1.6;
+                
+        
+        }
+        
+        h1 {
+            color: black;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+
+        p {
+            font-family: windows, Verdana, sans-serif;
+            font-size: 16px;
+        }
+
+        ul, ol {
+            margin: 15px 0;
+            padding-left: 30px;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ccc;
+            margin: 25px 0;
+        }
+
+        .dark {
+            background-color: black;
+            color: white;
+        }
